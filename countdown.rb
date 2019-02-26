@@ -6,3 +6,4 @@ def countdown(number)
     puts "#{number.to_s}"
     number -= 1
   end
+end
